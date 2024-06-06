@@ -9,9 +9,9 @@ author_profile: true
 
 Cornell University:
 ======
-* PHYS 2213: Electromagnetism (Fall 22, Fall 23)
 * PHYS 1110: Introduction to Experimental Physics (Spring 23, Spring 24)
 * PHYS 3316: Basics of Quantum Mechanics (Spring 23, Spring 24)
+* PHYS 2213: Electromagnetism (Fall 22, Fall 23)
 
 California Institute of Technology:
 ======
