@@ -13,16 +13,13 @@ author_profile: true
 
 1. **Real-space Topological Invariant for Time-Quasiperiodic Majoranas.** <br>
    <ins>Zihao Qi</ins>, Ilyoun Na, Gil Refael, Yang Peng. <br>
-   In Review for Phys. Rev. B. <br>
-   [arXiv](https://arxiv.org/abs/2404.13129)
+   [arXiv](https://arxiv.org/abs/2404.13129) | In Review.
 2. **Surprises in the Deep Hilbert Space of All-to-All Systems: From Super-Exponential Scrambling to Slow Entanglement Growth.** <br>
    <ins>Zihao Qi</ins>, Thomas Scaffidi, Xiangyu Cao. <br>
-   Phys. Rev. B 108, 054301 (2023) (Editors' Suggestion). <br>
-  [arXiv](https://arxiv.org/abs/2304.11138) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054301)
+  [arXiv](https://arxiv.org/abs/2304.11138) | [Phys. Rev. B (2023) (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054301)
 3. **Universal Nonadiabatic Energy Pumping in a Quasiperiodically Driven Extended System.** <br>
   <ins>Zihao Qi</ins>, Gil Refael, Yang Peng. <br>
-  Phys. Rev. B 104, 224301 (2021). <br>
-  [arXiv](https://arxiv.org/abs/2110.07757) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224301)  
+  [arXiv](https://arxiv.org/abs/2110.07757) | [Phys. Rev. B (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224301)  
 4. Robust Flat Bands with Tunability in Honeycomb Superlattices. <br>
    <ins>Zihao Qi</ins>, Eric Bobrow, Yi Li. <br>
   [arXiv](https://arxiv.org/abs/2012.07806)
