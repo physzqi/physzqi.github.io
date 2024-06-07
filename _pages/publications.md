@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-1. Real-space Topological Invariant for Time-Quasiperiodic Majoranas. <br>
-  **Zihao Qi**, Ilyoun Na, Gil Refael, Yang Peng. <br>
+1. **Real-space Topological Invariant for Time-Quasiperiodic Majoranas.** <br>
+  <ins>Zihao Qi</ins>, Ilyoun Na, Gil Refael, Yang Peng. <br>
    [arXiv](https://arxiv.org/abs/2404.13129) | In Review for Phys. Rev. B
 2. Surprises in the Deep Hilbert Space of All-to-All Systems: From Super-Exponential Scrambling to Slow Entanglement Growth. <br>
   **Zihao Qi**, Thomas Scaffidi, Xiangyu Cao. <br>
