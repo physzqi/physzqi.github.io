@@ -8,7 +8,7 @@ author_profile: true
 
 Soccer
 ====
-I am a member of Cornell CDSC (Chinese Dragon Soccer Club). I have competed in a few Ivy Cup Tournaments with the team. During the school year, I regularly play intramural games (indoor and outdoor), as well as pickup soccer.
+I am a member of Cornell CDSC (Chinese Dragon Soccer Club). I have travelled with the team and competed in a few Ivy Cup Tournaments. During the school year, I regularly play intramural games (indoor and outdoor), as well as pickup soccer.
 
 Legends of the Three Kingdoms (三国杀)
 ====
