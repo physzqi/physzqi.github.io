@@ -16,10 +16,10 @@ author_profile: true
    [arXiv](https://arxiv.org/abs/2404.13129)
 2. Surprises in the Deep Hilbert Space of All-to-All Systems: From Super-Exponential Scrambling to Slow Entanglement Growth. <br>
   **Zihao Qi**, Thomas Scaffidi, Xiangyu Cao. <br>
-   [Phys. Rev. B 108, 054301 (2023) (Editors’ Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054301) | [arXiv](https://arxiv.org/abs/2304.11138)
+  [arXiv](https://arxiv.org/abs/2304.11138) | [Phys. Rev. B 108, 054301 (2023) (Editors’ Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054301)
 3. Universal Nonadiabatic Energy Pumping in a Quasiperiodically Driven Extended System. <br>
   **Zihao Qi**, Gil Refael, Yang Peng. <br>
-  [Phys. Rev. B 104, 224301 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224301) | [arXiv](https://arxiv.org/abs/2110.07757)
+  [arXiv](https://arxiv.org/abs/2110.07757) | [Phys. Rev. B 104, 224301 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224301)  
 4. Robust Flat Bands with Tunability in Honeycomb Superlattices. <br>
   **Zihao Qi**, Eric Bobrow, Yi Li. <br>
    [arXiv](https://arxiv.org/abs/2012.07806).
