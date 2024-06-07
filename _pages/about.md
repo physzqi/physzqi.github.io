@@ -10,7 +10,7 @@ I am a second-year PhD student in Physics at Cornell University, currently worki
 
 My research interests lie broadly in non-equilibrium dynamics and quantum information science. In the past, I have studied time-quasiperiodic systems, Floquet prethermalization, quantum information scrambling, and frustrated lattice systems. 
 
-In my spare time, I enjoy playing soccer, cooking, and hiking around Ithaca.
+In my spare time, I enjoy playing soccer, hiking around Ithaca, and playing board games.
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
