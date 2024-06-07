@@ -14,4 +14,6 @@ In my spare time, I enjoy playing soccer, hiking around Ithaca, and playing boar
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
+06/2024: Hello World! Personal website created.
+
 
