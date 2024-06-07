@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-* _Super-exponential Scrambling and Slow Entanglement Growth in the Deep Hilbert Space of All-to-All Systems._ <br>
-  **2024 APS March Meeting** <br>
+* **Super-exponential Scrambling and Slow Entanglement Growth in the Deep Hilbert Space of All-to-All Systems.** <br>
+  _2024 APS March Meeting_ <br>
   Minneapolis, MN | March 2024.
 * _Operator Spreading in Quantum Spin Systems._ <br>
   **Physics & Applied Physics Student Seminar Series** <br>
