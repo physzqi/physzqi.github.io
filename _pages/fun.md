@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Fun"
 permalink: /fun/
 author_profile: true
 ---
@@ -9,7 +8,8 @@ author_profile: true
 
 Soccer
 ====
-I am a member of Cornell CDSC (Chinese Dragon Soccer Club).
+I am a member of Cornell CDSC (Chinese Dragon Soccer Club). I have competed in a few Ivy Cup Tournaments with the team. During the school year, I regularly play intramural games (indoor and outdoor), as well as pickup soccer.
 
-Legends of Three Kingdoms (三国杀)
+Legends of the Three Kingdoms (三国杀)
 ====
+I am an avid play of the Legends of Three Kingdoms, a board game based on the semi-fictional novel _Romance of the Three Kingdoms_. In 2022 S4, I reached Top 100 based on ranked games. In my spare time, I livestream on and upload game clips to [Bilibili](www.bilibili.com).
