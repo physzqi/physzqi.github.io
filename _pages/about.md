@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student in Physics at Cornell University, currently working with Prof. Chao-Ming Jian. Prior to Cornell, I completed my undergraduate degree in Physics at Caltech.
+Hello there! My name is Zihao Qi (齐子皓). I am a second-year PhD student in Physics at Cornell University, currently working with Prof. Chao-Ming Jian. Prior to Cornell, I completed my undergraduate degree in Physics at Caltech.
 
-My research interests lie broadly in non-equilibrium dynamics and quantum information science. In the past, I have studied time-quasiperiodic systems, Floquet prethermalization, quantum information scrambling, and frustrated lattice systems. 
+My research interests lie broadly in non-equilibrium physics, condensed matter systems, and quantum information science. In the past, I have studied time-quasiperiodic systems, Floquet prethermalization, quantum information scrambling, and frustrated lattice systems. 
 
-In my spare time, I enjoy playing soccer, hiking around Ithaca, and playing board games.
+In my spare time, I enjoy playing soccer, hiking around Ithaca, and board games.
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
