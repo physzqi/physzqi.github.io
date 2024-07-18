@@ -14,6 +14,7 @@ In my spare time, I enjoy playing soccer, hiking around Ithaca, and board games.
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
-06/2024: Hello World! Personal website created.
+07/2024: Our recent [paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014309), which defines a real-space topological invariant for time-quasi-periodic superconducting systems (which have dense energy spectra!), was published in PRB as an Editors' Suggestion.
+06/2024: Hello World!
 
 
