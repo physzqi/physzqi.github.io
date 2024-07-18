@@ -13,10 +13,11 @@ author_profile: true
 
 1. **Real-space Topological Invariant for Time-Quasiperiodic Majoranas.** <br>
    <ins>Zihao Qi</ins>, Ilyoun Na, Gil Refael, Yang Peng. <br>
-   [arXiv:2404.13129](https://arxiv.org/abs/2404.13129) | In Review.
+   _Phys. Rev. B 110, 014309 (2024)_ **(Editors' Suggestion)** <br>
+   [arXiv:2404.13129](https://arxiv.org/abs/2404.13129) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014309)
 2. **Surprises in the Deep Hilbert Space of All-to-All Systems: From Super-Exponential Scrambling to Slow Entanglement Growth.** <br>
    <ins>Zihao Qi</ins>, Thomas Scaffidi, Xiangyu Cao. <br>
-   _Phys. Rev. B 108, 054031 (2023)_ (Editors' Suggestion) <br>
+   _Phys. Rev. B 108, 054031 (2023)_ **(Editors' Suggestion)** <br>
    [arXiv:2304.11138](https://arxiv.org/abs/2304.11138) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054301)
 3. **Universal Nonadiabatic Energy Pumping in a Quasiperiodically Driven Extended System.** <br>
   <ins>Zihao Qi</ins>, Gil Refael, Yang Peng. <br>
