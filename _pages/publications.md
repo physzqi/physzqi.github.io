@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. **Real-space Topological Invariant for Time-Quasiperiodic Majoranas.** <br>
+1. **Real-space Topological Invariant for Time-Quasiperiodic Majorana Modes.** <br>
    <ins>Zihao Qi</ins>, Ilyoun Na, Gil Refael, Yang Peng. <br>
    _Phys. Rev. B 110, 014309 (2024)_ **(Editors' Suggestion)** <br>
    [arXiv:2404.13129](https://arxiv.org/abs/2404.13129) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014309)
