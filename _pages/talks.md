@@ -4,6 +4,9 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+* **Real-Space Topological Invariant for Time-quasiperiodic Majorana Modes** <br>
+  2025 APS March Meeting <br>
+  Anaheim, CA | March 2025.
 * **Super-exponential Scrambling and Slow Entanglement Growth in the Deep Hilbert Space of All-to-All Systems.** <br>
   Cornell University Quantum Theory Retreat [Poster] <br>
   Ithaca, NY | August 2024.
