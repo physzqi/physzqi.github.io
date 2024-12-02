@@ -7,7 +7,7 @@ author_profile: true
 * **Real-Space Topological Invariant for Time-quasiperiodic Majorana Modes** <br>
   2025 APS March Meeting <br>
   Anaheim, CA | March 2025.
-* **Surprises in the Deep Hilbert Space of All-to-All Systems** <br>
+* **Real-Space Topological Invariant for Time-quasiperiodic Majorana Modes** <br>
   University of Texas, Austin <br>
   Austin, TX | December 2024.
 * **Super-exponential Scrambling and Slow Entanglement Growth in the Deep Hilbert Space of All-to-All Systems.** <br>
