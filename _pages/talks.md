@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 * **Real-Space Topological Invariant for Time-quasiperiodic Majorana Modes** <br>
-  2025 APS March Meeting <br>
+  2025 APS Global Physics Summit <br>
   Anaheim, CA | March 2025.
 * **Real-Space Topological Invariant for Time-quasiperiodic Majorana Modes** <br>
   University of Texas, Austin <br>
