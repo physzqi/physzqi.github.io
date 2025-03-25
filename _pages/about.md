@@ -14,7 +14,7 @@ In my spare time, I enjoy playing soccer, card and board games, and hiking aroun
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
-03/2025: I attended the APS Global Physics Summit in Anaheim, CA and presented our work on the real-space topological invariant for time-quasiperiodic Majoranas. You can find the slides [here](physzqi.github.io/MAR-W21 03 Qi.pdf)
+03/2025: I attended the APS Global Physics Summit in Anaheim, CA and presented our work on the real-space topological invariant for time-quasiperiodic Majoranas. You can find the slides [here](https://physzqi.github.io/MM_25.pdf)
 
 11/2024: I have joined the group of Prof. Christopher Earls and will be a member of Cornell SciAI Center!
 
