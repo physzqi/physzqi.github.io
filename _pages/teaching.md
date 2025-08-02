@@ -9,9 +9,14 @@ author_profile: true
 
 Cornell University:
 ======
-* PHYS 7635: Solid-State Physics I (Fall 24)
-* PHYS 1110: Introduction to Experimental Physics (Spring 23, Spring 24, Fall 24)
-* PHYS 3316: Basics of Quantum Mechanics (Spring 23, Spring 24)
+* PHYS 4230: Statistical Thermodynamics (Fall 2025)
+* PHYS 7635: Solid-State Physics I (Grader; Fall 2024)
+* PHYS 1110: Introduction to Experimental Physics (Fall 2024)
+* PHYS 1110: Introduction to Experimental Physics (Spring 2024)
+* PHYS 3316: Basics of Quantum Mechanics (Grader; Spring 2024)
+* PHYS 2213: Electromagnetism (Fall 2023)
+* PHYS 1110: Introduction to Experimental Physics (Spring 2023)
+* PHYS 3316: Basics of Quantum Mechanics (Grader; Spring 2023)
 * PHYS 2213: Electromagnetism (Fall 22, Fall 23)
 
 California Institute of Technology:
