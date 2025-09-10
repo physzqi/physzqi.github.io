@@ -8,11 +8,13 @@ redirect_from:
 ---
 Hello there! My name is Zihao Qi (齐子皓). I am a fourth-year PhD Candidate in [Physics at Cornell University](https://physics.cornell.edu/). I am fortunate to be advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu/). Prior to Cornell, I completed my undergraduate degree in Physics at [Caltech](https://pma.caltech.edu/research-and-academics/physics), where I worked with Prof. [Gil Refael](https://pma.caltech.edu/people/gil-refael) and Prof. [John Preskill](https://www.preskill.caltech.edu/).
 
-I am currently working at the intersection of physics and machine learning. I am interested in using physical theories to understand and construct machine learning architectures, as well as applying machine learning to solving problems in condensed matter physics. In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
+I am currently working at the intersection of physics and machine learning. In one direction, I am interested in applying tools in machine learning to problems in condensed matter physics. More recently, I have become interested in using physical insights to design machine learning architectures and understand the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
 
 In my spare time, I enjoy playing soccer, card and board games, and hiking around Ithaca.
 
 **Contact**: zq73 [at] cornell [dot] edu.
+
+09/2025: Our work on Fourier Neural Operators for Floquet Quantum Dynamics has now been posted on arXiv -- check it out!
 
 08/2025: I have passed the Admission to Candidacy Exam and will be awarded a Master's degree.
 
