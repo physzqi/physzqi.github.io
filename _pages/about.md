@@ -8,13 +8,13 @@ redirect_from:
 ---
 Hello there! My name is Zihao Qi (齐子皓). I am a fourth-year PhD Candidate in [Physics at Cornell University](https://physics.cornell.edu/). I am fortunate to be advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu/). Prior to Cornell, I completed my undergraduate degree in Physics at [Caltech](https://pma.caltech.edu/research-and-academics/physics), where I worked with Prof. [Gil Refael](https://pma.caltech.edu/people/gil-refael) and Prof. [John Preskill](https://www.preskill.caltech.edu/).
 
-I am currently working at the intersection of physics and machine learning. In one direction, I explore how tools in machine learning can be applied to scientific discovery, particularly for problems in condensed matter physics and quantum information. More recently, I have become interested in using physical principles to design machine learning architectures and provide insights into the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
+I am currently working at the intersection of physics and machine learning. In one direction, I explore how tools in machine learning can be applied for scientific discovery, particularly for problems in condensed matter physics and quantum information. More recently, I have become interested in using physical principles to design machine learning architectures and provide insights into the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
 
 In my spare time, I enjoy playing soccer, card and board games, and hiking around Ithaca.
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
-09/2025: Our [recent work](https://arxiv.org/abs/2509.07084) proposes using Fourier Neural Operators as an effective, accurate, and scalable surrogate model for Floquet quantum dynamics. It has now been posted on arXiv -- check it out!
+09/2025: Our [recent work](https://arxiv.org/abs/2509.07084) proposes using Fourier Neural Operators as an effective, accurate, and scalable surrogate model for Floquet quantum dynamics, with potential applications to processing measurements from NISQ devices -- check it out!
 
 08/2025: I have passed the Admission to Candidacy Exam and will be awarded a Master's degree in Physics.
 
