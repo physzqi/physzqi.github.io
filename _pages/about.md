@@ -14,6 +14,8 @@ In my spare time, I enjoy playing soccer, card and board games, and hiking aroun
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
+10/2025: I attended the KITP Conference _Frontiers of Programmable Quantum Dynamics: Advances and Applications_ and presented a [poster](https://physzqi.github.io/KITP_Poster.pdf) on how Fourier Neural Operators serve as a computational surrogate for quantum dynamics.
+
 09/2025: Our [recent work](https://arxiv.org/abs/2509.07084) proposes using Fourier Neural Operators as an effective, accurate, and scalable surrogate model for Floquet quantum dynamics, with potential applications to processing measurements from NISQ devices -- check it out!
 
 08/2025: I have passed the Admission to Candidacy Exam and will be awarded a Master's degree in Physics.
