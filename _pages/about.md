@@ -14,6 +14,8 @@ In my spare time, I enjoy playing soccer, card and board games, and hiking aroun
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
+01/2026: The Lanczos coefficients encode important information about operator dynamics, but computing long sequences is numerically expensive and unstable. Extrapolating the coefficients based on asymptotic forms, on the other hand, misses subtle structures that strongly affect reconstructed dynamics. In our [recent work](https://arxiv.org/abs/2601.07937), we propose a transformer-based approach that captures the subleading, causually related structures in the coefficients, achieving order-of-magnitude reduction in error.
+
 12/2025: In a [recent paper](https://arxiv.org/abs/2512.04155), we study a dissipative variant of the Yao-Lee spin orbital model. We discuss the model's exact solvability, exponentially large steady-state manifold, and PT symmetry breaking.
 
 10/2025: I attended the KITP Conference _Frontiers of Programmable Quantum Dynamics: Advances and Applications_ and presented a [poster](https://physzqi.github.io/KITP_Poster.pdf) on how Fourier Neural Operators serve as a computational surrogate for quantum dynamics.
