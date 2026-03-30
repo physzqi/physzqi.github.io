@@ -11,12 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+1. **Neural Operator Quantum State: A Foundation Model for Quantum Dynamics.** <br>
+   <ins>Zihao Qi</ins>, Christopher Earls, Yang Peng. <br>
+   [arXiv:2603.25066](https://arxiv.org/abs/2603.25066) | IN REVIEW
 1. **Attention in Krylov Space.** <br>
    <ins>Zihao Qi</ins>, Christopher Earls. <br>
    [arXiv:2601.07937](https://arxiv.org/abs/2601.07937) | IN REVIEW
 2. **Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking.** <br>
    <ins>Zihao Qi</ins>, Yuan Xue. <br>
-   [arXiv:2512.04155](https://arxiv.org/abs/2512.04155) | IN REVIEW
+   [arXiv:2512.04155](https://arxiv.org/abs/2512.04155) | Phys. Rev. B, In Press.
 3. **Fourier Neural Operators for Time-Periodic Quantum Systems: Learning Floquet Hamiltonians, Observable Dynamics, and Operator Growth.** <br>
    <ins>Zihao Qi</ins>, Yang Peng, Christopher Earls. <br>
    [arXiv:2509.07084](https://arxiv.org/abs/2509.07084) | IN REVIEW
