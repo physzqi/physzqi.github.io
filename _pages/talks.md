@@ -4,6 +4,9 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+* **Fourier Neural Operator for Time-Periodic Quantum Dynamics** <br>
+  2026 APS Global Physics Summit <br>
+  Denver, CO | March 2026.
 * **Real-Space Topological Invariant for Time-quasiperiodic Majorana Modes** <br>
   2025 APS Global Physics Summit <br>
   Anaheim, CA | March 2025.
