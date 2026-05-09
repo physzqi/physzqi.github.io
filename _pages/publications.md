@@ -11,31 +11,35 @@ author_profile: true
 
 {% include base_path %}
 
-1. **Neural Operator Quantum State: A Foundation Model for Quantum Dynamics.** <br>
+9. **Universal Neural Propagator: Learning Time Evolution in Many-Body Quantum Systems.** <br>
+   <ins>Zihao Qi</ins>, Christopher Earls, Yang Peng. <br>
+   [arXiv:2605.05299](https://arxiv.org/abs/2605.05299) | IN REVIEW
+8. **Neural Operator Quantum State: A Foundation Model for Quantum Dynamics.** <br>
    <ins>Zihao Qi</ins>, Christopher Earls, Yang Peng. <br>
    [arXiv:2603.25066](https://arxiv.org/abs/2603.25066) | IN REVIEW
-1. **Attention in Krylov Space.** <br>
+7. **Attention in Krylov Space.** <br>
    <ins>Zihao Qi</ins>, Christopher Earls. <br>
    [arXiv:2601.07937](https://arxiv.org/abs/2601.07937) | IN REVIEW
-2. **Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking.** <br>
+6. **Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking.** <br>
    <ins>Zihao Qi</ins>, Yuan Xue. <br>
    _Phys. Rev. B 113, 144303 (2026)_ <br>
    [arXiv:2512.04155](https://arxiv.org/abs/2512.04155) | [DOI](https://journals.aps.org/prb/abstract/10.1103/zc8g-9fw7)
-3. **Fourier Neural Operators for Time-Periodic Quantum Systems: Learning Floquet Hamiltonians, Observable Dynamics, and Operator Growth.** <br>
+5. **Fourier Neural Operators for Time-Periodic Quantum Systems: Learning Floquet Hamiltonians, Observable Dynamics, and Operator Growth.** <br>
    <ins>Zihao Qi</ins>, Yang Peng, Christopher Earls. <br>
-   [arXiv:2509.07084](https://arxiv.org/abs/2509.07084) | PRX Quantum, In Press
+   PRX Quantum, In Press.
+   [arXiv:2509.07084](https://arxiv.org/abs/2509.07084) | [DOI]
 4. **Real-space Topological Invariant for Time-Quasiperiodic Majorana Modes.** <br>
    <ins>Zihao Qi</ins>, Ilyoun Na, Gil Refael, Yang Peng. <br>
    _Phys. Rev. B 110, 014309 (2024)_ **(Editors' Suggestion)** <br>
    [arXiv:2404.13129](https://arxiv.org/abs/2404.13129) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014309)
-5. **Surprises in the Deep Hilbert Space of All-to-All Systems: From Super-Exponential Scrambling to Slow Entanglement Growth.** <br>
+3. **Surprises in the Deep Hilbert Space of All-to-All Systems: From Super-Exponential Scrambling to Slow Entanglement Growth.** <br>
    <ins>Zihao Qi</ins>, Thomas Scaffidi, Xiangyu Cao. <br>
    _Phys. Rev. B 108, 054031 (2023)_ **(Editors' Suggestion)** <br>
    [arXiv:2304.11138](https://arxiv.org/abs/2304.11138) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054301)
-6. **Universal Nonadiabatic Energy Pumping in a Quasiperiodically Driven Extended System.** <br>
+2. **Universal Nonadiabatic Energy Pumping in a Quasiperiodically Driven Extended System.** <br>
   <ins>Zihao Qi</ins>, Gil Refael, Yang Peng. <br>
   _Phys. Rev. B 104, 224301 (2021)_ <br>
   [arXiv:2110.07757](https://arxiv.org/abs/2110.07757) | [DOI](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224301)  
-6. **Robust Flat Bands with Tunability in Honeycomb Superlattices.** <br>
+1. **Robust Flat Bands with Tunability in Honeycomb Superlattices.** <br>
    <ins>Zihao Qi</ins>, Eric Bobrow, Yi Li. <br>
   [arXiv:2012.07806](https://arxiv.org/abs/2012.07806)
