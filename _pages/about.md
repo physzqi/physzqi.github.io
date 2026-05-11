@@ -8,11 +8,13 @@ redirect_from:
 ---
 Hello there! My name is Zihao Qi (齐子皓). I am a fourth-year PhD Candidate in [Physics at Cornell University](https://physics.cornell.edu/). I am fortunate to be advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu/). Prior to Cornell, I completed my undergraduate degree in Physics at [Caltech](https://pma.caltech.edu/research-and-academics/physics), where I worked with Prof. [Gil Refael](https://pma.caltech.edu/people/gil-refael) and Prof. [John Preskill](https://www.preskill.caltech.edu/).
 
-I am currently working at the intersection of physics and machine learning. In one direction, I explore how machine learning tools, such as neural-network quantum states, can be applied to study many-body quantum systems and quantum dynamics. More recently, I have become interested in using statistical physics to probe the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
+I am currently working at the intersection of physics and machine learning. In one direction, I explore how machine learning tools, such as neural-network quantum states, can be applied to study many-body quantum systems and quantum dynamics. More recently, I have become interested in using statistical physics to understand the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
 
 In my spare time, I enjoy playing soccer, card and board games, and hiking around Ithaca.
 
 **Contact**: zq73 [at] cornell [dot] edu.
+
+05/2026: We recently proposes Universal Neural Propagator (UNP), a single model that transfers across a function space of driving protocols _and_ initial states. Check it out [here](https://arxiv.org/abs/2605.05299)!
 
 04/2026: Our paper on how neural-operator learning provides a new paradigm of quantum dynamics simulation has been accepted as an article in [PRX Quantum](https://journals.aps.org/prxquantum/accepted/10.1103/2tt3-yndr).
 
