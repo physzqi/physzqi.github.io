@@ -26,7 +26,7 @@ author_profile: true
    [arXiv:2512.04155](https://arxiv.org/abs/2512.04155) | [DOI](https://journals.aps.org/prb/abstract/10.1103/zc8g-9fw7)
 5. **Fourier Neural Operators for Time-Periodic Quantum Systems: Learning Floquet Hamiltonians, Observable Dynamics, and Operator Growth.** <br>
    <ins>Zihao Qi</ins>, Yang Peng, Christopher Earls. <br>
-   PRX Quantum, In Press.
+   PRX Quantum, In Press. <br>
    [arXiv:2509.07084](https://arxiv.org/abs/2509.07084) | [DOI]
 4. **Real-space Topological Invariant for Time-Quasiperiodic Majorana Modes.** <br>
    <ins>Zihao Qi</ins>, Ilyoun Na, Gil Refael, Yang Peng. <br>
