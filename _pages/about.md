@@ -14,6 +14,8 @@ In my spare time, I enjoy playing soccer, card and board games, and hiking aroun
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
+06/2026: This June, I will be visiting the [Simons Center for Geometry and Physics](https://scgp.stonybrook.edu) and attending the month-long program [Complexity, information, and tractable simulations of quantum many-body dynamics](https://scgp.stonybrook.edu/archives/45033).
+
 05/2026: Our paper on how neural-operator learning provides a new paradigm of quantum dynamics simulation has been published as an article in [**PRX Quantum**](https://journals.aps.org/prxquantum/abstract/10.1103/2tt3-yndr).
 
 05/2026: We recently proposed Universal Neural Propagator (UNP), a single model that transfers across a function space of driving protocols _and_ initial states. Check it out [here](https://arxiv.org/abs/2605.05299)!
