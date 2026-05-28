@@ -14,9 +14,9 @@ In my spare time, I enjoy playing soccer, card and board games, and hiking aroun
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
-05/2026: We recently proposed Universal Neural Propagator (UNP), a single model that transfers across a function space of driving protocols _and_ initial states. Check it out [here](https://arxiv.org/abs/2605.05299)!
+05/2026: Our paper on how neural-operator learning provides a new paradigm of quantum dynamics simulation has been published as an article in [**PRX Quantum**](https://journals.aps.org/prxquantum/abstract/10.1103/2tt3-yndr).
 
-04/2026: Our paper on how neural-operator learning provides a new paradigm of quantum dynamics simulation has been accepted as an article in [PRX Quantum](https://journals.aps.org/prxquantum/accepted/10.1103/2tt3-yndr).
+05/2026: We recently proposed Universal Neural Propagator (UNP), a single model that transfers across a function space of driving protocols _and_ initial states. Check it out [here](https://arxiv.org/abs/2605.05299)!
 
 03/2026: Conventional approaches to simulating driven systems are protocol-specific and require re-evaluation for each new driving Hamiltonian. In a [recent work](https://arxiv.org/abs/2603.25066), we propose the Neural Operator Quantum State (NOQS), a foundation model for quantum dynamics that directly learns the _functional_ mapping from driving protocols to time-evolved quantum states. Our framework captures time evolution accurately for both in- and out-of-distribution driving protocols, as well as transfers across temporal discretizations.
 
