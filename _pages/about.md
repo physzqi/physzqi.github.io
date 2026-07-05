@@ -8,13 +8,15 @@ redirect_from:
 ---
 Hello there! My name is Zihao Qi (齐子皓). I am a fourth-year PhD Candidate in [Physics at Cornell University](https://physics.cornell.edu/). I am fortunate to be advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu/). Prior to Cornell, I completed my undergraduate degree in Physics at [Caltech](https://pma.caltech.edu/research-and-academics/physics), where I worked with Prof. [Gil Refael](https://pma.caltech.edu/people/gil-refael) and Prof. [John Preskill](https://www.preskill.caltech.edu/).
 
-I am currently working at the intersection of physics and artificial intelligence. In one direction, I explore how machine learning tools, such as neural-network quantum states, can be applied to study many-body quantum dynamics. More recently, I have become interested in using statistical physics to understand the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
+I am currently working at the intersection of many-body physics and artificial intelligence (AI). In one direction, I explore how tools from the AI community, such as neural-network quantum states, can be applied to study many-body quantum dynamics. More recently, I have become interested in using statistical physics to understand the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
 
 In my spare time, I enjoy playing soccer, card and board games, and hiking around Ithaca.
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
-06/2026: This June, I will be visiting the [Simons Center for Geometry and Physics](https://scgp.stonybrook.edu) and attending the month-long program [Complexity, information, and tractable simulations of quantum many-body dynamics](https://scgp.stonybrook.edu/archives/45033).
+07/2026: Neural quantum states are trained on variational objectives such as energy minimization alone, but how do they accurately capture observables that have not been explicitly optimized for? In [a recent work](https://arxiv.org/abs/2607.01336), we use tools from the mechanistic interpretability to open up the black-box NQS. We reveal features inside the model that strongly correlate with and causally control physical observables, providing a tool that diagnoses and controls NQS.
+
+06/2026: This June, I will be visiting the [Simons Center for Geometry and Physics](https://scgp.stonybrook.edu) and attending the month-long program [Complexity, information, and tractable simulations of quantum many-body dynamics](https://scgp.stonybrook.edu/archives/45033). I gave a [talk](https://scgp.stonybrook.edu/video_portal/video.php?id=7769) on neural operator surrogate models for quantum dynamics.
 
 05/2026: Our paper on how neural-operator learning provides a new paradigm of quantum dynamics simulation has been published as an article in [**PRX Quantum**](https://journals.aps.org/prxquantum/abstract/10.1103/2tt3-yndr).
 
