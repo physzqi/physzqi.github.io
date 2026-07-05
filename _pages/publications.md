@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+10. **Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders.** <br>
+   <ins>Zihao Qi</ins>, Christopher Earls. <br>
+   [arXiv:2607.01336](https://arxiv.org/abs/2607.01336) | IN REVIEW
 9. **Universal Neural Propagator: Learning Time Evolution in Many-Body Quantum Systems.** <br>
    <ins>Zihao Qi</ins>, Christopher Earls, Yang Peng. <br>
    [arXiv:2605.05299](https://arxiv.org/abs/2605.05299) | IN REVIEW
