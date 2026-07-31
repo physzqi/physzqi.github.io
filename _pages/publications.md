@@ -22,7 +22,8 @@ author_profile: true
    [arXiv:2603.25066](https://arxiv.org/abs/2603.25066) | IN REVIEW
 7. **Attention in Krylov Space.** <br>
    <ins>Zihao Qi</ins>, Christopher Earls. <br>
-   [arXiv:2601.07937](https://arxiv.org/abs/2601.07937) | IN REVIEW
+   _Phys. Rev. B 114, 014319 (2026)_ <br>
+   [arXiv:2601.07937](https://arxiv.org/abs/2601.07937) | [DOI](https://journals.aps.org/prb/abstract/10.1103/vj7d-1bhq)
 6. **Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking.** <br>
    <ins>Zihao Qi</ins>, Yuan Xue. <br>
    _Phys. Rev. B 113, 144303 (2026)_ <br>
