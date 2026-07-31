@@ -14,6 +14,8 @@ In my spare time, I enjoy playing soccer, card and board games, and hiking aroun
 
 **Contact**: zq73 [at] cornell [dot] edu.
 
+07/2026: Our work on transformer-based extrapolation of Lanczos coefficients has now been published in Phys. Rev. B; see [here](https://journals.aps.org/prb/abstract/10.1103/vj7d-1bhq).
+
 07/2026: Neural quantum states are trained on variational objectives such as energy minimization alone, but how do they accurately capture observables that have not been explicitly optimized for? In [a recent work](https://arxiv.org/abs/2607.01336), we use tools from the mechanistic interpretability to open up the black-box NQS. We reveal features inside the model that strongly correlate with and causally control physical observables, providing a tool that diagnoses and controls NQS.
 
 06/2026: This June, I will be visiting the [Simons Center for Geometry and Physics](https://scgp.stonybrook.edu) and attending the month-long program [Complexity, information, and tractable simulations of quantum many-body dynamics](https://scgp.stonybrook.edu/archives/45033). I gave a [talk](https://scgp.stonybrook.edu/video_portal/video.php?id=7769) on neural operator surrogate models for quantum dynamics.
