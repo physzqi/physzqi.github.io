@@ -4,6 +4,12 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+* **Neural Operator Surrogate for Periodically Driven Quantum Systems** <br>
+  California State University, Northridge Physics Colloquium <br>
+  Northridge, CA | September 2026.
+* **Neural Operator Surrogate for Periodically Driven Quantum Systems** <br>
+  Simons Center for Physics and Geometry <br>
+  Stony Brook, NY | June 2026.
 * **Fourier Neural Operator for Time-Periodic Quantum Dynamics** <br>
   2026 APS Global Physics Summit <br>
   Denver, CO | March 2026.
