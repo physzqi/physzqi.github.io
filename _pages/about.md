@@ -6,13 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there! My name is Zihao Qi (齐子皓). I am a fourth-year PhD Candidate in [Physics at Cornell University](https://physics.cornell.edu/). I am fortunate to be advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu/). Prior to Cornell, I completed my undergraduate degree in Physics at [Caltech](https://pma.caltech.edu/research-and-academics/physics), where I worked with Prof. [Gil Refael](https://pma.caltech.edu/people/gil-refael) and Prof. [John Preskill](https://www.preskill.caltech.edu/).
+Hello there! My name is Zihao Qi (齐子皓). I am a fifth-year PhD Candidate in [Physics at Cornell University](https://physics.cornell.edu/). I am fortunate to be advised by Prof. [Christopher Earls](https://earls.cee.cornell.edu/). Prior to Cornell, I completed my undergraduate degree in Physics at [Caltech](https://pma.caltech.edu/research-and-academics/physics), where I worked with Prof. [Gil Refael](https://pma.caltech.edu/people/gil-refael) and Prof. [John Preskill](https://www.preskill.caltech.edu/).
 
-I am currently working at the intersection of many-body physics and artificial intelligence (AI). In one direction, I explore how tools from the AI community, such as neural-network quantum states, can be applied to study many-body quantum dynamics. More recently, I have become interested in using statistical physics to understand the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
+I am currently working at the intersection of quantum physics and artificial intelligence (AI). In one direction, I explore how AI can be applied to study quantum systems, such as representing many-body quantum states. More recently, I have become interested in using statistical physics to understand the inner workings of Large Language Models (LLMs). In the past, I have studied non-equilibrium quantum systems, Floquet prethermalization, quantum information dynamics, and various lattice models.
 
 In my spare time, I enjoy playing soccer, card and board games, and hiking around Ithaca.
 
 **Contact**: zq73 [at] cornell [dot] edu.
+
+09/2026: I visited the Simons Center for Geometry and Physics to attend a [program on quantum integrability](https://scgp.stonybrook.edu/archives/47650). Subsequently, I attended the [AI for Quantum Matter workshop](https://www.kitp.ucsb.edu/activities/aiqmatter26) at KITP and visited California State University Northridge to give an invited colloquium.
 
 07/2026: Our work on transformer-based extrapolation of Lanczos coefficients has now been published in Phys. Rev. B; see [here](https://journals.aps.org/prb/abstract/10.1103/vj7d-1bhq).
 
